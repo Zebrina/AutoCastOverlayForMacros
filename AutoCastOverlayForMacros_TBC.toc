@@ -1,0 +1,7 @@
+## Interface: 20501
+## Version: 1.0.2
+## Title: Auto Cast Overlay For Macros
+## Author: Zebrina
+## Notes: Shows auto-cast overlay and shine for buttons with a macro (where #showtooltip displays an auto-castable spell).
+
+AutoCastOverlayForMacros.lua
