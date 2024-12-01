@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 110005
 ## Version: 1.0.1
 ## Title: Auto Cast Overlay For Macros
 ## Author: Zebrina
